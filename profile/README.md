@@ -6,7 +6,7 @@
 
 ## What I'm working on
 
-- [blog](https://greengorych.io/): I write about automation, infrastructure, and working efficiently with WSL
+- [greengorych.io](https://greengorych.io/): I write about automation, infrastructure, and working efficiently with WSL
 - [wsl-configs](https://github.com/greengorych/wsl-configs): A curated collection of configuration files for Windows Subsystem for Linux (WSL)
 - [makefile-venv-manager](https://github.com/greengorych/makefile-venv-manager): A Makefile toolkit for managing Python virtual environments
 
