@@ -1,6 +1,6 @@
 # Hi, I'm Sergei Tilipin
 
-I'm a DevOps Engineer with over 20 years of experience in core IT infrastructure. I'm also a Windows Subsystem for Linux enthusiast, writing about WSL on my blog [greengorych.io](https://greengorych.io/) and building, testing, and documenting its configurations in the repository [wsl-configs](https://github.com/greengorych/wsl-configs/).
+DevOps Engineer with over 20 years of experience in core IT infrastructure. I'm also a Windows Subsystem for Linux enthusiast, writing about WSL on my blog [greengorych.io](https://greengorych.io/) and building, testing, and documenting its configurations in the repository [wsl-configs](https://github.com/greengorych/wsl-configs/).
 
 ## What I'm working on
 
