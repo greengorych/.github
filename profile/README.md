@@ -7,7 +7,7 @@ I'm also a Windows Subsystem for Linux (WSL) enthusiast and work on:
 - Developing, testing, and documenting WSL configurations in the [wsl-configs] repository.
 - Maintaining an [additional list][distributions-list] of WSL distributions.
 - Writing and maintaining a [Reference][reference] covering the WSL ecosystem.
-- Publishing reviews, instructions, and guides on my blog [greengorych.io][site].
+- Publishing reviews, instructions, and guides on my blog [greengorych.io][website].
 
 ## Contacts
 
