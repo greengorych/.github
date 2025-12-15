@@ -1,15 +1,23 @@
 # Hi, I'm Sergei Tilipin
 
-DevOps Engineer with over 20 years of experience in core IT infrastructure. I'm also a Windows Subsystem for Linux enthusiast, writing about WSL on my blog [greengorych.io](https://greengorych.io/) and building, testing, and documenting its configurations in the repository [wsl-configs](https://github.com/greengorych/wsl-configs/).
+DevOps Engineer with experience in core IT infrastructure.
 
-## What I'm working on
+I'm also a Windows Subsystem for Linux (WSL) enthusiast and work on:
 
-- [greengorych.io](https://greengorych.io/): Writing about automation, infrastructure, and working efficiently with WSL
-- [wsl-configs](https://github.com/greengorych/wsl-configs/): A curated collection of configuration files for Windows Subsystem for Linux
-- [makefile-venv-manager](https://github.com/greengorych/makefile-venv-manager/): A Makefile toolkit for managing Python virtual environments
+- Developing, testing, and documenting WSL configurations in the [wsl-configs] repository.
+- Maintaining an [additional list][distributions-list] of WSL distributions.
+- Writing and maintaining a [Reference][reference] covering the WSL ecosystem.
+- Publishing reviews, instructions, and guides on my blog [greengorych.io][site].
 
 ## Contacts
 
-- [Blog](https://greengorych.io/)
-- [LinkedIn](https://www.linkedin.com/in/greengorych/)
-- [GitHub](https://github.com/greengorych)
+- [Webite][website]
+- [LinkedIn][linkedin]
+- [GitHub][github]
+
+[website]: https://greengorych.io/
+[reference]: https://greengorych.io/reference/
+[distributions-list]: https://greengorych.io/reference/distributions-list/
+[linkedin]: https://www.linkedin.com/in/greengorych/
+[github]: https://github.com/greengorych
+[wsl-configs]: https://github.com/greengorych/wsl-configs/
