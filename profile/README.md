@@ -1,6 +1,6 @@
 # Hi, I'm Sergei Tilipin
 
-DevOps Engineer with experience in core IT infrastructure.
+DevOps Engineer with experience in Core IT Infrastructure and Virtualization.
 
 I'm also a Windows Subsystem for Linux (WSL) enthusiast, working on:
 
